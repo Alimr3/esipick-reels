@@ -1,0 +1,28 @@
+The Navy's two key ship-launched interceptors are in very different shape after the Iran war. The SM-3 costs about $28.7M, may have lost up to 61% of its pre-war stock, and takes 4–5 years from order to delivery. The SM-6 is cheaper, deeper and about to be built much faster.
+
+Key numbers (CSIS "Last Rounds?", Apr 2026, unless noted)
+• SM-3: ~$28.7M each (CBO: ~$28M) · ~410 before the war · 130–250 used · ~53 built a year (Block IB 40 + Block IIA 13, five-year average) · 52–64 months from contract to full delivery
+• SM-6: ~$5.3M each (CBO: ~$4M) · ~1,160 before the war · 190–370 used · ~96 a year (five-year average) · plan: more than 500 a year
+• Oct 2026: Navy awarded Raytheon an SM-6 contract worth up to $24.4B (5 years + options) and the Missile Defense Agency a $6.3B SM-3 Block IB contract
+
+Our math (Apex Reports, estimates)
+• SM-3 used ÷ 53 a year ≈ 2.5–4.7 years of production to replace
+• 130–250 of ~410 ≈ 32–61% of the SM-3 stock; 190–370 of ~1,160 ≈ 16–32% of the SM-6 stock
+• One SM-3 ≈ the price of 5 SM-6s ($28.7M ÷ $5.3M)
+• An SM-3 ordered in Oct 2026 + 52–64 months ≈ delivered 2031–2032
+
+Caveats: Interceptor inventories are classified. Stockpile and usage figures are independent estimates (CSIS); the Pentagon has not confirmed them. Other estimates differ (e.g. The War Zone reports ~400 SM-3s and ~1,250 SM-6s pre-war). "Used" means fired, not lost.
+
+Sources
+• CSIS, Cancian & Park, "Last Rounds? Status of Key Munitions at the Iran War Ceasefire" (Apr 2026): https://www.csis.org/analysis/last-rounds-status-key-munitions-iran-war-ceasefire
+• The War Zone (May 28, 2026): https://www.twz.com/news-features/severity-of-americas-depleted-advanced-weapons-stockpiles-detailed-in-new-report
+• EurAsian Times, SM-6 contract + CBO costs (Oct 2026): https://www.eurasiantimes.com/iran-war-china-threat-pushes-u-s-to-accelerate-sm-6-missile-production-awards-24-4b-contract-to-raytheon/
+• Manufacturing Dive, Raytheon SM-6 and SM-3 contracts (Oct 2026): https://www.manufacturingdive.com/news/rtx-raytheon-dod-defense-war-sm3-ib-sm-6-missile-interceptors/832760/
+
+Full Patriot + THAAD + Navy interceptor breakdown: "Patriot Missile Shortage: Can the US Refill Its Shield?" on Apex Reports.
+
+Visuals are data graphics and public-domain U.S. military file footage (Video: DVIDS / U.S. Department of Defense — USS Bulkeley, USS Paul Ignatius, USS Roosevelt, Pacific Dragon 2024, Missile Defense Agency), not footage of the events described. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Should the Navy buy more cheap interceptors, or keep paying $28.7M for the long-range shot? Tell us below.
+
+#SM3 #USNavy #IranWar
