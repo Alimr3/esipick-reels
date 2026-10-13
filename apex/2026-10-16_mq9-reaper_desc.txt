@@ -1,0 +1,45 @@
+The MQ-9 Reaper fleet fell from 351 to about 135 — and the Iran war isn't the main reason. We break down every public Reaper loss count, the real bill, and why the U.S. can't simply build more.
+
+The Air Force reported 351 MQ-9A Reapers in FY2022. By May 2026, about 135 were left. 186 were gone before the war with Iran even started (retired Block 1 aircraft, plus accidents and earlier losses). Now the war is burning through the rest, the production line is closed, and the $10 million replacement doesn't exist yet.
+
+CHAPTERS
+0:00 351 → 135: the drop nobody explains
+0:41 The most valuable player
+2:26 Four counts, one war
+4:12 The bill
+5:25 Where did 216 Reapers go?
+7:16 No factory to call
+8:46 The $10 million gamble
+11:02 The scoreboard
+
+KEY NUMBERS
+• 351 MQ-9As in FY2022 → 165 at the start of FY2026 → ~135 in May 2026 (CRS; USAF via TWZ)
+• Reaper losses in the Iran war, by source: DoD Lead IG "as many as 30" (through Jun 30) · CBO 24 (through Aug 1) · U.S. officials to The Washington Post "at least 45" (Aug 13, incl. Yemen) · The War Zone 47 (through Sep 18). The Air Force has not disclosed an official number.
+• Unit cost: ~$30M (CBO) to "up to $50M" with full sensors (USAF testimony). 45 lost ≈ $1.35B–$2.25B (Apex estimate)
+• Yemen, spring 2025: 7 Reapers down in under six weeks, >$200M (U.S. officials via AP)
+• 56 combat lines; 135 ÷ 56 ≈ 2.4 aircraft per line (Apex math)
+• Production line closed; 2–3 years to restart (General Atomics via CRS). FY2027 request: $766.2M for the MQ-9 program, zero new Air Force Reapers (5 for the Marine Corps). Buyback: fewer than 10 unused airframes.
+• Successor — Massed Modular Aircraft: ~$10M air vehicle (no sensors), up to 4 prototype firms by end-2026, procurement request planned FY2028; fleet goal reported as 500 by 2032 (CRS) vs "at least 180" (Maj. Gen. Niemi). CCA drone wingman ≈ $20M.
+
+CAVEATS
+• "Lost" includes aircraft shot down, crashed after link failures and destroyed on the ground; counts cover different dates and theaters, so they are not directly comparable.
+• Dollar totals marked "Apex estimate/Apex math" are our own arithmetic from the cited unit costs, not official figures.
+• MMA and CCA prices are for the air vehicle only and aren't a like-for-like comparison with a fully equipped Reaper.
+
+SOURCES
+• Congressional Research Service, "Air Force MQ-9A Reaper: Background and Issues for Congress" (IF13318, Sep 23, 2026): https://www.everycrsreport.com/reports/IF13318.html
+• The War Zone, "Every American Aircraft Lost or Damaged During the Iran War, Visualized" (Sep 22, 2026): https://www.twz.com/air/every-american-aircraft-lost-or-damaged-during-the-iran-war-visualized
+• The Washington Post via The Defense Post (Aug 17, 2026): https://thedefensepost.com/2026/08/17/us-reaper-iran-war/
+• Responsible Statecraft (Aug 2026): https://responsiblestatecraft.org/reaper-drone/
+• Air Force Times, "Air Force MQ-9 fleet drops to 135 aircraft after Iran combat losses" (May 13, 2026): https://www.airforcetimes.com/news/pentagon-congress/2026/05/13/air-force-mq-9-fleet-drops-to-135-aircraft-after-iran-combat-losses/
+• Defense News, "US Air Force speeds Reaper successor timeline after Iran losses" (Sep 4, 2026): https://defensenews.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses
+• Military Times (Sep 28, 2026): https://militarytimes.com/news/pentagon-congress/2026/09/28/heavy-losses-of-mq-9-reaper-to-factor-in-future-plans-to-divest-replace-aircraft/
+• AP via OPB, "Houthi rebels have shot down 7 US Reaper drones worth $200 million in recent weeks" (Apr 25, 2025): https://www.opb.org/article/2025/04/25/houthi-rebels-have-shot-down-7-us-reaper-drones-worth-dollar200-million-in-recent-weeks/
+• Air & Space Forces Magazine, "Abrupt End to MQ-9 Production Surprises General Atomics" (Feb 26, 2020): https://www.airandspaceforces.com/abrupt-end-to-mq-9-production-surprises-general-atomics/
+• U.S. Air Force MQ-9 fact sheet: https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104470/mq-9-reaper/
+
+Visuals: public-domain U.S. military file footage (DVIDS / U.S. Department of Defense — VMUT-2, Iowa ANG 132d Wing, 25th Attack Group, 188th Wing and other units), AI-generated illustrations (Google Flow) and our own data graphics. File footage is not footage of the events described. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Which would you build: expensive drones that do everything but can't be replaced, or cheap ones you can afford to lose? 👇
+
+#MQ9Reaper #IranWar #USAirForce
