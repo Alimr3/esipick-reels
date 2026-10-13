@@ -1,0 +1,49 @@
+Patriot missile shortage: the U.S. may have fewer than 1,000 top-tier PAC-3 interceptors left after the Iran war — maybe as few as ~760, by CSIS's estimate.
+Lockheed builds about 600 a year, but America has bought an average of just 183 a year. We run the numbers on how long it takes to refill the shield, what it costs, and why 2030 is the date that matters.
+
+CHAPTERS
+0:00 30 interceptors in one night
+0:42 The shield: what we're counting
+1:39 The drawdown
+2:45 Two production numbers
+4:02 The refill math
+5:04 The 2,000-a-year plan
+5:53 THAAD: the harder problem
+7:01 The Navy's shield (SM-3, SM-6)
+8:03 What to watch
+8:23 Recap
+
+KEY NUMBERS
+• ~30 Patriot interceptors fired in one night defending Muwaffaq Salti Air Base, Jordan, in September (U.S. official via Reuters)
+• PAC-3 unit cost: ~$3.9M (FY2026 budget documents via CSIS)
+• Pre-war PAC-3 stockpile: ~2,330 (CSIS estimate); 1,060–1,430 used by the April 8 ceasefire; ~65% used by late July, leaving fewer than 1,000 — as few as 759 (CSIS)
+• Lockheed Martin delivered 620 PAC-3 MSE in 2025 (all customers); the U.S. 5-year average purchase is 183/yr; about half of production goes to 18 other countries (CSIS)
+• Lead time from contract to delivery: 42 months (CSIS)
+• Plan: ~2,000 PAC-3 MSE a year under a seven-year framework (Lockheed / Pentagon, Jan. 2026); CSIS says planned by 2030; Army contract worth up to $58.6B through FY2032
+• THAAD: ~$15.5M each, ~360 pre-war, roughly half used by April; no deliveries since Aug. 2023, expected to resume by April 2027 (CSIS)
+• SM-3: ~$28.7M each, ~410 pre-war, 130–250 used, ~53/yr. SM-6: ~$5.3M, ~1,160 pre-war, 190–370 used (CSIS)
+
+APEX MATH (our own arithmetic, labelled in the video)
+• 30 × $3.9M ≈ $117M for one night
+• 2,330 − ~760 ≈ 1,570 PAC-3s to replace ≈ $6.1B at $3.9M each
+• Refill time: ~8.6 years at 183/yr · ~5.2 years at ~300/yr (half of 2025 output) · ~1.6 years at ~1,000/yr (half of 2,000) once the line reaches full rate
+• An interceptor ordered in Oct. 2026 + 42 months ≈ April 2030
+• ~760 ÷ 30 per night ≈ 25 nights like Sept. 8 (illustrative only)
+
+CAVEATS
+• Interceptor inventories are classified. All stockpile figures are CSIS estimates built from public budget documents; the Pentagon has not confirmed them and says the U.S. "has everything it needs to execute."
+• Production numbers include foreign sales; the U.S. share varies year to year.
+
+SOURCES
+• CSIS, Cancian & Park, "Last Rounds? Status of Key Munitions at the Iran War Ceasefire" (April 2026): https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-04/260424_Cancian_Park_Last_Rounds.pdf
+• ABC News (July 30, 2026): https://abcnews.com/Politics/us-patriot-interceptor-stockpile-diminished-65-iran-war/story?id=135198306
+• Military Times (July 30, 2026): https://www.militarytimes.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/
+• Military Times / Reuters (Sept. 10, 2026): https://www.militarytimes.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/
+• Lockheed Martin (Jan. 6, 2026): https://news.lockheedmartin.com/2026-01-06-Lockheed-Martin-and-Department-of-War-Advance-Landmark-Acquisition-Transformation-to-Accelerate-PAC-3-R-MSE-Production
+• Defense News (Jan. 6, 2026): https://www.defensenews.com/newsletters/2026/01/06/lockheed-to-triple-production-of-interceptor-missiles-in-pentagon-deal/
+
+Visuals are public-domain U.S. military file footage (Video: DVIDS / U.S. Department of Defense — 32nd Army Air and Missile Defense Command, U.S. Army Air Defense Artillery School, 52nd ADA Brigade, 1-1 ADA and other Army units) and original data graphics — not footage of the events described. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Should America keep sending half its interceptors to allies while its own stockpile is this low? Tell us below 👇
+
+#PatriotMissile #MissileDefense #IranWar
