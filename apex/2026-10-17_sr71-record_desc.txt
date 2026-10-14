@@ -1,0 +1,33 @@
+On July 28, 1976, a U.S. Air Force SR-71 Blackbird crew flew 2,193 mph, the absolute speed record for a jet. Fifty years later, it still stands. Here's the math, the asterisk, and why nothing has beaten it.
+
+Key numbers
+• 2,193.167 mph: absolute speed record, July 28, 1976, Capt. Eldon Joersz (pilot) and Maj. George Morgan (RSO) (National Museum of the USAF; U.S. Air Force)
+• Mach 3.3: the SR-71's maximum safe operating speed at about 85,000 ft (Smithsonian NASM)
+• ~600°F: heat on the outer skin above Mach 3, which is why the airframe was built largely of titanium (Smithsonian NASM)
+• 1 h 4 min 20 s: Los Angeles to Washington on March 6, 1990, the Smithsonian SR-71's final Air Force flight, averaging about 2,124 mph (Smithsonian NASM)
+• 32 Blackbirds built (Smithsonian NASM)
+• F-35A listed top speed: Mach 1.6 (~1,200 mph) (U.S. Air Force fact sheet)
+• X-15: 4,520 mph (Mach 6.7) on Oct. 3, 1967 — rocket-powered and air-launched from a B-52 (NASA; Air Force Test Center)
+
+Our math (Apex Reports)
+• 3,600 seconds ÷ 2,193 mph ≈ 1.64 seconds per mile
+• 2,193 ÷ ~1,200 mph ≈ 1.8x the F-35A's listed top speed ("almost twice")
+
+Caveats: The record is for jet (air-breathing) aircraft that take off under their own power; the rocket-powered X-15 flew faster but was launched from a B-52. "Officially" means a ratified record — other aircraft may have flown fast at times without setting one. The Air Force retired its SR-71 fleet on Jan. 26, 1990, citing a shrinking defense budget and high operating costs (National Museum of the USAF); spy satellites were the other big reason (The National Interest; MiGFlug). NASA flew SR-71s until 1999. Figures are rounded.
+
+Sources
+• National Museum of the U.S. Air Force, Lockheed SR-71A fact sheet: https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198054/lockheed-sr-71a/
+• U.S. Air Force, "SR-71 pilots, crew relive absolute speed record": https://www.af.mil/News/Article-Display/Article/909026
+• Smithsonian Air & Space, "The Fastest Jet Flight in History": https://www.smithsonianmag.com/air-space-magazine/fastest-jet-flight-history-180959911/
+• Smithsonian National Air and Space Museum, Lockheed SR-71 Blackbird: https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920072000
+• NASA, X-15 Hypersonic Research Program: https://www.nasa.gov/reference/x-15/
+• Air Force Test Center, "October 3, 1967: X-15 Human Speed Record": https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2335023/october-3-1967-x-15-human-speed-record/
+• U.S. Air Force, F-35A Lightning II fact sheet (ACC): https://www.388fw.acc.af.mil/Portals/103/F35A_LightningII_ACC%20Fact%20Sheet.pdf
+• The National Interest, "Why the Air Force Gave Up on the SR-71": https://nationalinterest.org/node/73791
+• MiGFlug, "SR-71's Final Speed Record Still Stands": https://migflug.com/jetflights/sr-71s-final-speed-record-still-stands/
+
+Visuals are data graphics and public-domain U.S. government archive footage and photos (Video: DVIDS / U.S. Department of Defense — National Museum of the U.S. Air Force "Yesterday's Air Force," 9th Reconnaissance Wing at Beale AFB, Arnold Engineering Development Complex; cover photo: NASA / Jim Ross via DVIDS), not footage of the 1976 record flight. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Will any crewed jet ever beat 2,193 mph — or is the next record a drone or a missile? Tell us below.
+
+#SR71 #Blackbird #MilitaryFacts
