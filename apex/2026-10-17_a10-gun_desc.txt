@@ -1,0 +1,28 @@
+The A-10 Warthog's GAU-8 Avenger cannon pushes back with about 10,000 pounds of average recoil, slightly more than the 9,065 pounds of thrust from one of the jet's two engines. The plane was designed around this gun, and it's mounted off-center for a reason.
+
+Key numbers
+• GAU-8/A Avenger: 30 mm, 7 barrels, about 20 feet long (U.S. Air Force Test Center)
+• Rate of fire: 3,900 rounds a minute (USAF)
+• Ammo drum: up to 1,174 rounds; a typical load is about 1,150
+• Gun + feed system + full drum: about 4,029 lb, nearly two tons
+• Average recoil: about 10,000 lbf vs 9,065 lb of thrust per TF34 engine (USAF fact sheet)
+• A burst slows the jet by only a few mph in level flight
+• Mounting: gun offset to the left so the firing barrel sits on the centerline; nose landing gear offset to the right
+
+Our math (Apex Reports)
+• ~1,150 rounds ÷ 3,900 rounds/min ≈ 17.7 seconds of total firing time, which is why pilots fire short 1-2 second bursts
+
+Caveats: Recoil is an average figure from the gun's maker; the A-10 has two engines, so total thrust is about 18,000 lb. The original gun could be set to 2,100 or 4,200 rounds a minute before being fixed at 3,900. Figures are rounded.
+
+Sources
+• U.S. Air Force, A-10C Thunderbolt II fact sheet: https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104490/a-10-/
+• Air Force Test Center, "Feb. 26, 1974: Live firing tests of a 30mm GAU-8 cannon mounted in A-10": https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2482833/february-26-1974-live-firing-tests-of-a-30mm-gau-8-cannon-mounted-in-a-10/
+• MiGFlug, "The GAU-8 Avenger: The Cannon They Built a Plane Around" (Sep 2026, citing Hill AFB, FAS, General Dynamics, Jenkins, Spick): https://migflug.com/afterburner/?p=24255234
+• GAU-8 Avenger reference (cites General Dynamics, Spick, Jenkins, Donald & March): https://en.wikipedia.org/wiki/GAU-8_Avenger
+• Air & Space Forces Magazine, "Congress Moves to Block A-10, F-15E Divestments in NDAA" (Dec 2025): https://www.airandspaceforces.com/congress-block-a-10-f-15e-divestments-ndaa/
+
+Visuals are data graphics, a schematic and public-domain U.S. military file footage and photos (Video/photo: DVIDS / U.S. Department of Defense — 422nd Test and Evaluation Squadron at Nellis AFB, 51st Fighter Wing and 25th Fighter Squadron at Osan AB, 122nd Fighter Wing, 1st Marine Division), not footage of any specific event. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Which A-10 number surprised you most: the recoil, the 18 seconds, or the off-center gun? Tell us below.
+
+#A10Warthog #USAirForce #MilitaryFacts
