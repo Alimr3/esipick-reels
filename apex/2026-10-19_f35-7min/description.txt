@@ -1,0 +1,40 @@
+What does one F-35 flight hour really cost? The Pentagon's FY2026 rate sheet bills an F-35A at $18,600 an hour — but GAO and CBO figures point to a full cost closer to $47,000 (our estimate). We open the books: where the money goes, why the F-35 gets pricier per hour the less it flies, and what a $1.6 trillion sustainment bill means for U.S. taxpayers.
+
+Chapters
+0:00 $18,600 or $47,000?
+0:34 The number on the invoice
+1:37 The number nobody prints
+2:43 Why flying less costs more
+4:01 Ready or not: 44% mission capable
+4:51 F-35 vs the fleet
+5:11 The $1.6 trillion tail
+5:47 The bottom line
+
+Key numbers
+• $18,600/hr — F-35A "Other DoD" reimbursable rate, FY2026 (F-16C $14,818 · F-15EX $17,321 · F-15E $29,992 · F-22A $55,051 · B-52H $66,003)
+• $6.6M per F-35A per year — Air Force projected operating & sustainment cost (constant 2012 $) (GAO, Apr 2024)
+• 195 hours — average F-35A flight hours per jet in 2024, vs a 250-hour benchmark (CBO, Jun 2025)
+• ≈$47,000/hr — Apex estimate: $6.6M ÷ 195 h ≈ $33,800 (2012 $), adjusted for inflation. At 250 h the same math gives ≈$37,000.
+• 67% → 44% — fleet mission capable rate, FY2021 → FY2025; fully mission capable 38% → 25% (GAO, Jun 2026)
+• $1.58 trillion — lifetime sustainment estimate, up 44% from $1.1T in 2018; jets planned to fly to 2088 (GAO, Apr 2024)
+
+Caveats
+• The reimbursable rate is what one DoD component bills another for flying hours; it is not the full cost of owning the aircraft.
+• Our ≈$47,000 and ≈$37,000 per-hour figures are Apex estimates derived from GAO and CBO numbers (projected annual cost ÷ actual hours, CPI-adjusted). Official cost-per-hour definitions vary by source and year.
+• GAO dollar figures are in constant 2012 dollars unless noted.
+
+Sources
+• DoD Comptroller — FY2026 Reimbursable Rates (Fixed Wing): https://comptroller.war.gov/Portals/45/documents/rates/fy2026/2026_b_c.pdf
+• GAO-24-106703 — F-35 Sustainment (Apr 2024): https://www.gao.gov/products/gao-24-106703
+• GAO-26-108113 — F-35 Sustainment: Actions Needed to Ensure Updated Strategy Improves Persistent Readiness Challenges (Jun 2026): https://www.gao.gov/assets/gao-26-108113.pdf
+• CBO — Availability, Use, and Operating and Support Costs of F-35 Fighter Aircraft (Jun 2025): https://www.cbo.gov/publication/61347
+• CBO — Projected Composition of the U.S. Military's Fleet of Fighter Aircraft Through 2040 (Jul 2026): https://www.cbo.gov/system/files/2026-07/62538-future-fighter-aircraft.pdf
+• Air & Space Forces Magazine — JPO Seeks to Slash F-35A Flight-Hour Costs (May 2019): https://www.airandspaceforces.com/jpo-seeks-to-slash-f-35a-flight-hour-costs/
+• King's College London — Comparing F-35 and Typhoon Operating and Support Costs: https://www.kcl.ac.uk/comparing-f-35-and-typhoon-operating-and-support-costs
+• Breaking Defense — F-35 program's lifetime price tag tops $2 trillion (Apr 2024): https://breakingdefense.com/2024/04/f-35-programs-lifetime-price-tag-tops-2-trillion-pentagon-wants-jets-to-fly-longer/
+
+Video: DVIDS / U.S. Department of Defense (public-domain U.S. military file footage, labelled FILE FOOTAGE — not footage of specific events). Visuals also include original data graphics. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Should the Pentagon fly the F-35 more to bring the hourly cost down — or buy more cheaper jets like the F-15EX? Tell us in the comments.
+
+#F35 #DefenseBudget #MilitaryAviation
