@@ -1,0 +1,44 @@
+Pentagon drone cost: the Drone Dominance program promised small attack drones at $2,300 each, about 13,000 for the price of one MQ-9 Reaper. At the prices the Pentagon itself posted in 2026, an armed long-range drone comes to about $7,750, so one Reaper buys about 3,900. Here's the full math, why U.S.-made drones cost more, and the other half of the bill: stopping the other side's drones.
+
+Chapters
+0:00 13,000 drones per Reaper? The real number
+0:29 The $2,300 promise
+1:13 What the Pentagon is actually paying
+2:28 Why U.S.-made drones cost more
+3:23 The other half of the bill: counter-drone
+4:35 What happens next
+
+Key numbers
+• Drone Dominance: ~$1B over two years; 4 phases, 30K → 60K → 100K → 150K drones at $5,000 → $3,000 → $2,300 (DoD RFI, Dec. 2025). Site now: "over 200,000" by 2027.
+• Gauntlet I (Feb. 2026): 11 winners; ~30,000 drones for ~$150M, inert payload (DefenseScoop)
+• Gauntlet II posted prices: $4,500 long-range drone, $3,500 close-quarters, $3,250 munition (RFS; GovCon IC)
+• ~$30 million: MQ-9 Reaper unit cost (CBO estimate)
+• DJI accounts for an estimated 70–90% of drones used in the U.S. (Special Competitive Studies Project)
+• Non-Chinese parts cost 25–70% more; break-even $2,000–3,000; Thunder Tiger delivered 1,520 drones for ~$7.6M (Taiwanese makers via Army Recognition / CNA)
+• Shahed-136 $30K–$50K; Merops interceptor ~$15K, 13,000 bought in ~8 days (Army Sec. Driscoll via The War Zone)
+• PAC-3 MSE ~$3.9M (FY2026 budget via CSIS) · up to 25,000 APKWS kits/yr, Pentagon–BAE framework Oct. 19, 2026 (Defense News)
+• FY2027 request: $53.6B incl. $16.9B unmanned buys, $14.4B counter-drone; Hegseth's ~$50B one-time ask not approved (Defense News)
+
+Our math (Apex Reports)
+• $4,500 + $3,250 = $7,750 for an armed long-range drone at posted Gauntlet II prices (more than 3x the $2,300 goal)
+• $30M ÷ $2,300 ≈ 13,000 drones; $30M ÷ $7,750 ≈ 3,900 (rounded)
+• $3.9M ÷ $30K–$50K ≈ 80–130x · $1.74B ÷ 55,000 kits (Navy, 2025) ≈ $32,000/kit (rough)
+
+Caveats: a Reaper and a small attack drone do different jobs (price comparison, not capability). Posted prices are ceilings, not final totals; per-drone figures from order totals are averages.
+
+Sources
+• U.S. Army / DoD News (Dec. 3, 2025): https://www.army.mil/article/289322/war_department_asks_industry_to_make_more_than_300k_drones_quickly_cheaply
+• Drone Dominance Program, Gauntlet II RFS: https://dronedominance.mil/assets/S2MARTS%20Drone%20Dominance%20G2%20RFS%20-%20Final.pdf
+• drone-warfare.com, Drone Dominance Program tracker: https://drone-warfare.com/research/drone-dominance-program/
+• DefenseScoop, Gauntlet I results (Mar. 9, 2026): https://defensescoop.com/2026/03/09/dod-drone-dominance-program-gauntlet-i-results/
+• Special Competitive Studies Project, commercial drones: https://www.scsp.ai/reports/2025-gaps-analysis/gaps-analysis/commercial-drones/
+• Army Recognition, Taiwan delivers 1,520 FPV drones (Oct. 2026): https://www.armyrecognition.com/news/army-news/2026/taiwan-delivers-1-520-fpv-attack-drones-for-u-s-drone-dominance-program-to-reduce-reliance-on-china
+• The War Zone, Merops interceptors vs Shaheds (Apr. 2026): https://www.twz.com/land/cheap-interceptor-drones-proven-in-ukraine-protected-u-s-troops-against-iranian-shaheds
+• Defense News, APKWS framework (Oct. 19, 2026): https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/
+• Defense News, "Pentagon needs $50B for mass drone production, Hegseth says" (Oct. 14, 2026): https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/
+
+Visuals: data graphics and public-domain U.S. military file footage (DVIDS / U.S. Department of Defense), not footage of the events described; the fixed-wing drones shown are U.S. LUCAS drones, not Shaheds. Narration is an AI voice. Apex Reports is independent and non-partisan.
+
+Cheap drones in huge numbers, or fewer, bigger ones like the Reaper: which is the smarter buy? Tell us below.
+
+#DroneWarfare #Pentagon #MilitaryDrones
